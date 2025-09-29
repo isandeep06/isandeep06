@@ -35,7 +35,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/sandeepmaurya-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/sandeepmaurya-datascientist"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/sinr01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--  <a href="https://docs.google.com/document/d/1BG61g6fm9qQwQFTBMjNjABGSnuKSWdb9bmFOKxHarzA/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google&logoColor=white" /></a>-->
 </div>
